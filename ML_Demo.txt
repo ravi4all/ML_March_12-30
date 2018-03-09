@@ -1,0 +1,52 @@
+Programming + Maths - Regression/Distance
+
+Data Scientist
+Data Collection - Web Crawling - Beautifull Soup/Scrappy
+Data Analysis   - Numpy/Pandas
+- Numpy - Numerical Python - nd array
+- Pandas - Data Analysis
+Data Visualization - Matplotlib/Seaborn
+Data Preprocessing - 
+Data Cleaning/Data Munging/Data Wrangling
+- Handle Missing Values
+- Train-Test Split
+- Feature Scaling - Standardisation/Normalization
+- Label Encoding
+
+Machine Learning
+Sklearn - scikit-learn
+
+Anaconda
+Jupyter Notebook - .ipynb
+
+Stock Market Prediction
+Salary Prediction
+House Price Prediction
+
+Face Detection
+Face Recognition
+Text Classification
+Spam Classifier
+Recommendation Engine
+Hand Written Digit Recognition
+
+
+
+Tensorflow/Keras/PyTorch
+
+Credit Card Fraud Detection
+Dog Cat Recognition
+Recommendation System
+Time Series Analayis
+
+
+
+
+
+
+
+
+
+
+
+
